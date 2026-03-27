@@ -1,7 +1,7 @@
 import csv
 
 def etudiant_existe(nom, prenom):
-    """Vérifie si un étudiant existe déjà dans le fichier CSV"""
+    # Vérifie si un étudiant existe déjà dans le fichier CSV
     try:
         with open('fichier-exo3.csv', 'r') as fichier:
             reader = csv.DictReader(fichier)
