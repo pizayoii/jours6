@@ -1,0 +1,12 @@
+{
+  "total_etudiants": 3,
+  "age_moyen": 20.3,
+  "plus_jeune": {
+    "nom": "Durand Pierre",
+    "age": 19
+  },
+  "plus_age": {
+    "nom": "Martin Sophie",
+    "age": 22
+  }
+}
